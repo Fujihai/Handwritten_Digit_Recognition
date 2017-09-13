@@ -1,5 +1,4 @@
 # Handwritten_Digit_Recognition
-===================================
 
 Introduction:
 ---------------------
