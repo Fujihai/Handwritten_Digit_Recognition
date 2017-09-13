@@ -4,10 +4,8 @@
 Introduction:
 ---------------------
 
-基于OpenCV的手写数字识别 
 A Handwrittern_Digit_Recognition based on OpenCV
 
-基本操作：通过鼠标在窗体上面书写数字，程序能识别当前的数字。
 Fundamental options : Write digit on the form with mouse , and the program can recognize your handwritten digit.
 
 Runtime Environment：
