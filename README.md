@@ -3,7 +3,7 @@
 Introduction:
 ---------------------
 
-A Handwrittern_Digit_Recognition based on OpenCV
+Handwrittern_Digit_Recognition based on OpenCV
 
 Fundamental options : Write digit on the form with mouse , and the program can recognize your handwritten digit.
 
