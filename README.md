@@ -1,9 +1,27 @@
 # Handwritten_Digit_Recognition
+===================================
+
+Introduction:
+---------------------
+
 基于OpenCV的手写数字识别 
+A Handwrittern_Digit_Recognition based on OpenCV
 
-基本操作：通过鼠标在窗体上面书写数字，程序能识别当前的数字。  
+基本操作：通过鼠标在窗体上面书写数字，程序能识别当前的数字。
+Fundamental options : Write digit on the form with mouse , and the program can recognize your handwritten digit.
 
-#-------------------------------------------------------------------
+Runtime Environment：
+------------------------
+
+	Windows10 OS
+  
+	QT Creator 4.2.1(Community)
+  
+	OpenCV 2.4.10
+
+Usage:
+-----------------------
+-------------------------------------------------------------------
 
 	详细操作说明(按键)：
 
@@ -13,33 +31,39 @@
 	退出程序	   ： Esc键
 	保存当前绘制的数字图像： s键(默认保存在E盘(E:/out.pbm))
   
-#--------------------------------------------------------------------
+--------------------------------------------------------------------
 
-运行环境：
+-------------------------------------------------------------------
 
-	Windows 10操作系统
-  
-	QT Creator 4.2.1(Community)
-  
-	OpenCV 2.4.10
-  
-程序运行效果截图如下：
+	Options Details(Key)：
 
-主操作界面：
+	Reduce penWidth ：Press '-' key
+	Increase penWidth ：Press '+' key
+	Clean whiteBoard ： Press 'R' key
+	Exit ： Press 'Esc' key
+	Save your current handwritten digit image： Press 's' key (default path : E:/out.pbm)
+  
+--------------------------------------------------------------------
+
+  
+(效果)Effect：
+----------------
+
+主操作界面(Main UI)：
 ![5](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/5.png)
 
-默认书写笔迹宽度(正确识别)：
+(默认书写笔迹宽度)(Default penWidth)：
 ![1](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/1.png) 
 
-缩小书写笔迹宽度(正确识别)：
+(缩小书写笔迹宽度)(reduce penWidth)：
 ![2](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/2.png) 
 
-任意区域书写完整数字(正确识别)：
+任意区域书写完整数字(write digit in optional area)：
 ![3](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/3.png) 
 
-改变窗体大小进行数字书写(正确识别)：
+改变窗体大小进行数字书写(write digit with optional form size)：
 ![4](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/4.png)
 
-gif动态演示：
+git effect :
 ![gif](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/Handwritten_Digit_Recognition2.gif)
 
