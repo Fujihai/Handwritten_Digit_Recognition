@@ -45,25 +45,24 @@ Usage:
   
 --------------------------------------------------------------------
 
-  
-(效果)Effect：
+Effect(效果)：
 ----------------
 
 主操作界面(Main UI)：
 ![5](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/5.png)
 
-(默认书写笔迹宽度)(Default penWidth)：
+(Default penWidth)(默认书写笔迹宽度)：
 ![1](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/1.png) 
 
-(缩小书写笔迹宽度)(reduce penWidth)：
+(reduce penWidth)(缩小书写笔迹宽度)：
 ![2](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/2.png) 
 
-任意区域书写完整数字(write digit in optional area)：
+(write digit in optional area)(任意区域书写完整数字)：
 ![3](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/3.png) 
 
-改变窗体大小进行数字书写(write digit with optional form size)：
+(write digit with optional form size)(改变窗体大小进行数字书写)：
 ![4](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/4.png)
 
-git effect :
+gif effect :
 ![gif](https://github.com/liufushihai/Handwritten_Digit_Recognition/blob/master/Images/Handwritten_Digit_Recognition2.gif)
 
